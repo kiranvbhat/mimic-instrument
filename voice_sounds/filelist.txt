@@ -1,0 +1,10 @@
+voice_sounds/brass1.wav
+voice_sounds/brass2.wav
+voice_sounds/drums1.wav
+voice_sounds/drums2.wav
+voice_sounds/guitar1.wav
+voice_sounds/guitar2.wav
+voice_sounds/piano1.wav
+voice_sounds/piano2.wav
+voice_sounds/woodwinds1.wav
+voice_sounds/woodwinds2.wav
