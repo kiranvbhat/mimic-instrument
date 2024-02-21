@@ -2,7 +2,9 @@
 A multi-track instrument you can play with your voice and an Xbox controller.
 
 ## Demo
-Demo coming soon
+<a href="https://youtu.be/5hbyKNw1oFA?si=dX82AJodi3j2d0Fa">
+        <img src="https://github.com/kiranvbhat/mimic-instrument/assets/76144656/2c126f37-f714-481b-816e-a96c5a4aff76" alt="Mimic Demo" style="width:60%">
+</a>
 
 ## Controls
 
